@@ -1,0 +1,35 @@
+html{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: 'Titillium Web', sans-serif;
+  color: white;
+  background: #282828;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  width: 50%;
+  border: 0;
+  border-top: 1px solid white;
+  padding: 0; 
+}
+a{
+  text-decoration: none;
+  color: white; 
+}
+#header, #about, #podcasts #footer {
+  text-shadow: 3px 4px 16px rgba(150, 150, 150, 1);
+  margin: 0;
+  
+}
+
+.footer{
+   left:0px;
+   bottom:0px;
+   width:100%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
